@@ -25,7 +25,7 @@ The platform connects LinkedIn's profile data, live job market signals, and lear
 
 ## View the Portfolio
 
-👉 **[lucymait.github.io/pm-portfolio](https://lucymait.github.io/pm-portfolio)** ← update once live
+👉 **[lucymait.github.io/pm-portfolio](https://lucymait.github.io/pm-portfolio)**
 
 ---
 
